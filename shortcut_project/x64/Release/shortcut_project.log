@@ -1,0 +1,11 @@
+﻿  CursorHalo.cpp
+  HintOverlay.cpp
+  InputHandler.cpp
+  main.cpp
+  TrayIcon.cpp
+  UIElementScanner.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  shortcut_project.vcxproj -> C:\Repositories\ruairi\key_vin\shortcut_project\Release\shortcut_project.exe
