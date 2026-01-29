@@ -1,2 +1,8 @@
 ﻿  CursorHalo.cpp
-  shortcut_project.vcxproj -> C:\Repositories\ruairi\key_vin\shortcut_project\Debug\shortcut_project.exe
+  HintOverlay.cpp
+  InputHandler.cpp
+  main.cpp
+  TrayIcon.cpp
+  UIElementScanner.cpp
+  Generating Code...
+  shortcut_project.vcxproj -> C:\Users\ruair\Ruairi\key_vin\NavKey\Debug\shortcut_project.exe

@@ -1,4 +1,5 @@
-﻿  CursorHalo.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\ruair\ruairi\key_vin\navkey\release\shortcut_project.exe' is denied.
+  CursorHalo.cpp
   HintOverlay.cpp
   InputHandler.cpp
   main.cpp
@@ -8,4 +9,4 @@
   Previous IPDB not found, fall back to full compilation.
   All 1185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  shortcut_project.vcxproj -> C:\Repositories\ruairi\key_vin\shortcut_project\Release\shortcut_project.exe
+  shortcut_project.vcxproj -> C:\Users\ruair\Ruairi\key_vin\NavKey\Release\shortcut_project.exe
